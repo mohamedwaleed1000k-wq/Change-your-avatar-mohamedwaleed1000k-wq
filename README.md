@@ -46,8 +46,8 @@ Building structured data analysis projects with technical documentation.
 
 ## Contact
 
-LinkedIn: YOUR_LINKEDIN  
-Email: YOUR_EMAIL  
+LinkedIn: [YOUR_LINKEDIN ](https://www.linkedin.com/in/mohamed-waleed23/) 
+Email: mohamedwaleed1000k@gmail.com  
 
 ---
 
