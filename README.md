@@ -1,48 +1,54 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
-</div>
+# Mohamed Waleed
 
-## 👨‍💻 About Me
-I’m Mohamed Waleed, a multidisciplinary **Mechatronics Engineer** passionate about bridging **mechanical design, automation, and artificial intelligence**.  
-My focus is on building smart systems that combine **SolidWorks design, CNC programming, PLC automation, and machine learning** to deliver practical innovation with global impact.  
-I enjoy empowering peers through portfolio building, technical guidance, and STEM volunteering.
+Mechatronics Engineer focused on Automation, Intelligent Systems, and AI Integration.
 
 ---
 
-## 🛠️ Skills
-- **Mechanical & Automation**
-  - SolidWorks Mechanical Design  
-  - CNC Programming (G-code customization)  
-  - PLC Automation & Sensor Integration  
+## About
 
-- **AI & Data**
-  - Python, MATLAB, Azure ML  
-  - Machine Learning Engineering (DEPI)  
-  - Statistical Data Analysis & Predictive Modeling  
+I design and build engineering systems that combine mechanical design, automation, and machine learning.
 
-- **Software & Tools**
-  - UI/UX Design  
-  - Video Production & Editing  
-  - CCNA Networking  
-  - Technical Reporting & Documentation  
+My work centers on:
+- Mechanical System Design (SolidWorks)
+- CNC & Manufacturing Optimization
+- PLC-Based Automation
+- Data Analysis & Machine Learning in Python
+
+I am interested in building scalable, real-world systems that bridge traditional engineering with intelligent decision models.
 
 ---
 
-## 🎯 Current Goals
-- Design and implement a **fire-fighting robot** with heat and smoke sensors, achieving ≥80% detection accuracy.  
-- Complete a **data analysis project in Python** and present results in a structured report within 3 months.  
-- Craft concise, ATS-friendly **CVs and LinkedIn profiles** in both English and Arabic for international opportunities.  
-- Build and refine **digital portfolios** for myself and peers using AI-powered tools.  
+## Experience Focus
+
+Automation Systems  
+Industrial Control & Sensors  
+AI-Augmented Engineering  
+Technical System Design  
 
 ---
 
-## 🤝 Values
-- Knowledge sharing and community empowerment.  
-- Fast adaptation and practical implementation of ideas.  
-- Acting as a bridge between **mechanical engineering** and **AI-driven innovation**.  
+## Selected Technologies
+
+Python  
+MATLAB  
+SolidWorks  
+PLC Systems  
+Git  
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Fun message">
-</div>
+## Current Work
+
+Developing an intelligent fire-fighting robotic system.  
+Building structured data analysis projects with technical documentation.  
+
+---
+
+## Contact
+
+LinkedIn: YOUR_LINKEDIN  
+Email: YOUR_EMAIL  
+
+---
+
+Engineering intelligent systems with precision and clarity.
